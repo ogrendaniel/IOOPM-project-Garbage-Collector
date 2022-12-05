@@ -6,6 +6,7 @@ public class Fotboll {
     int draws = 0;
     int losses = 0;
     int points = 0;
+    String soutKorea = "SOUTH KOREA";
 
     public Fotboll(int goals, int goalsAgainst, int wins, int draws, int losses, int points) {
         this.goals = goals;
