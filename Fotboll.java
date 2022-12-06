@@ -12,6 +12,7 @@ public class Fotboll {
     String brazil = "Brazil";
     String england = "England";
     String sweden = "Sweden";
+    String germany = "Germany";
     public Fotboll(int goals, int goalsAgainst, int wins, int draws, int losses, int points) {
         this.goals = goals;
         this.goalsAgainst = goalsAgainst;
