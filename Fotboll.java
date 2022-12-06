@@ -9,6 +9,7 @@ public class Fotboll {
     String soutKorea = "SOUTH KOREA";
     String spain = "Spain";
     String brazil = "Brazil";
+    String england = "England";
     public Fotboll(int goals, int goalsAgainst, int wins, int draws, int losses, int points) {
         this.goals = goals;
         this.goalsAgainst = goalsAgainst;
