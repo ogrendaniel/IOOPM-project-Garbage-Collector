@@ -8,7 +8,7 @@ public class Fotboll {
     int points = 0;
     String soutKorea = "SOUTH KOREA";
     String spain = "Spain";
-
+    String portugal = "Portugal";
     String brazil = "Brazil";
     String england = "England";
     String sweden = "Sweden";
