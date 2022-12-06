@@ -9,6 +9,7 @@ public class Fotboll {
     String soutKorea = "SOUTH KOREA";
     String spain = "Spain";
     String portugal = "Portugal";
+    String ronaldo = "Cristiano Ronaldo";
     String brazil = "Brazil";
     String england = "England";
     String sweden = "Sweden";
