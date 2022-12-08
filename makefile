@@ -7,7 +7,7 @@ PERFORMANCE 	= -pg
 
 
 # Generate a test executable for cascade limit
-cascade_test: Cascade_limit.c cascade_tests.c
+cascade_test: cascade_limit.c cascade_tests.c
 	$(C_COMPILER) $(C_FLAGS) $^ -o $@ $(CUNIT_LINK)
 
 # Generate a test executable for handle memory
